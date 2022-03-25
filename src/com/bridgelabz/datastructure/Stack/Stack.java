@@ -1,4 +1,4 @@
-package com.bridgelabz.datastructure;
+package com.bridgelabz.datastructure.Stack;
 
 import java.lang.Exception;
 public class Stack{

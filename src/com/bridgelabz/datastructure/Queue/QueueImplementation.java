@@ -1,4 +1,4 @@
-package com.bridgelabz.datastructure;
+package com.bridgelabz.datastructure.Queue;
 
 public class QueueImplementation {
     public static void main(String[] args) {

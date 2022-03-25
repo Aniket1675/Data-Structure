@@ -1,6 +1,4 @@
-package com.bridgelabz.datastructure;
-
-
+package com.bridgelabz.datastructure.Linklist;
 
 public class LinkedList
 {
